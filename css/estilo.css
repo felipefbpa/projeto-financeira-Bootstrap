@@ -4,7 +4,11 @@
 	color: white;
 }
 
-.cor-icone:hover{
+.cor-icone:hover {
+	color: rgb(0, 81, 255);
+}
+
+.area-do-cliente:hover {
 	color: rgb(0, 81, 255);
 }
 
