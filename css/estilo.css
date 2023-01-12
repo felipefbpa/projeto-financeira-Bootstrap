@@ -17,11 +17,11 @@
 	border-bottom: 1px solid #e5e5e5;
 }
 
-footer p a{
+footer a{
 	margin: 5px 15px;
 }
 
-footer p a:hover{
+footer a:hover{
 	text-decoration: none;
 	color: rgb(0, 81, 255);
 }
